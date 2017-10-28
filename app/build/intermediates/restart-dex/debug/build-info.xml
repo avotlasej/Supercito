@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="280355894947840"
+    token="7089138684708843355"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="354" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="27" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="277589699070293"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="279460839709866"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="280355894947840"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

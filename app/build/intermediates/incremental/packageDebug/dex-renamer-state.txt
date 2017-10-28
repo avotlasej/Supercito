@@ -1,0 +1,7 @@
+#Sat Oct 28 01:12:50 CDT 2017
+base.0=C\:\\Users\\Avotlasej\\AndroidStudioProjects\\Supercito\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8fe6a7291339f4a958adb021105527b48eaedc9d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Avotlasej\\AndroidStudioProjects\\Supercito\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_50c4d075033bab2a6d1f75af51cb61d994aea74b\\classes.dex
+base.1=C\:\\Users\\Avotlasej\\AndroidStudioProjects\\Supercito\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_50c4d075033bab2a6d1f75af51cb61d994aea74b
+file.0=C\:\\Users\\Avotlasej\\AndroidStudioProjects\\Supercito\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8fe6a7291339f4a958adb021105527b48eaedc9d\\classes.dex

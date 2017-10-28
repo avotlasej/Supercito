@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd7cb9ca1f11457324b73de590db9f30da4a291">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_50c4d075033bab2a6d1f75af51cb61d994aea74b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_98416fa4dc9b9e061c00be1aad76eff32a612d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_b0ca050c481f084c1a9a35fff6e76ead8ea8f231\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-26.0.0-alpha1_1724be19fdb63292814c5cc836f04904792277f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_ae12fdd09eb5946da47c99f1df8bf118ecddf2f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="59466bf16e99d98589fbbd17adcf35df6194a23a">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8fe6a7291339f4a958adb021105527b48eaedc9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_18cbe58f5b54d4718b665b773287801100962907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_e1add7e66b5cbe7fee5ab01848b93495ee6fb012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_7e2b18a7213d2e0171a9a91f735bd71531502c73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_84ea31bcaaf406dc4a06fb1b3d31b02576c077ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_def92b9f5ea6c5e86efe71620cb4c838fd267f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_f7b2409d2414635ed32c99f56a2043b6d7854b52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Avotlasej\AndroidStudioProjects\Supercito\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_d1a841e1d3e5f4fb57aebc55cee4195db21eca1e\classes.dex" />
+    </item>
+
+</items>

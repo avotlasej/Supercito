@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvCompraH"
+                android:layout_width="201dp"
+                android:layout_height="wrap_content"
+                android:textSize="24dp"
+                android:text="Nombre"
+                android:padding="10dp"
+                android:textColor="#000000"/>
+
+            <TextView
+                android:id="@+id/tvCantidadH"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingBottom="10dp"
+                android:text="A01181599" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingBottom="10dp"
+            android:layout_weight="1"
+            android:textSize="20sp"
+            android:textColor="@android:color/holo_green_light"
+            android:id="@+id/tvTotalH"
+            android:text="Precio" />
+
+    </LinearLayout>
+</LinearLayout>
